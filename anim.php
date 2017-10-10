@@ -66,6 +66,6 @@ $(window).bind("load", function() {
 <div></div>
 
 <p><b>Note:</b> When an animation is finished, it changes back to its original style.</p>
-
+    HELLO...
 </body>
 </html>
